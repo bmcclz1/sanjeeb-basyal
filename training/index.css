@@ -1,0 +1,16 @@
+h2{color:rgb(181, 30, 75)}
+
+@media(max-width:300px){
+h3{color: purple;}
+}
+
+.navigation {background-color:lightblue}
+#navs{color:blueviolet}
+.navigation {display: flex;
+justify-content:space-evenly
+;
+align-items: center;
+
+}
+.menu_item{display:flex; 
+    gap: 20px;}
